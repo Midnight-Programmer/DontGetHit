@@ -13,8 +13,8 @@ The graphics and animations are fairly simple, as the goal was more intended tow
 
 My main goal with this app was to better learn how to implement intents, game views, and some simple animations.
 Also helped reinforce the use of event listeners from previous projects.
-
-
-![Home Screen](https://user-images.githubusercontent.com/17883972/214753275-8d21eec0-4060-4362-8a0d-ac073c7764ea.png)
-![Game Screen](https://user-images.githubusercontent.com/17883972/214753281-47d5c272-ca76-431e-aa76-653b466420f7.png)
-![Game Over](https://user-images.githubusercontent.com/17883972/214753284-6bb6f953-f1f6-448b-b086-263baf0a6df1.png)
+<p float="left" align="center">
+  <img src="https://user-images.githubusercontent.com/17883972/214753275-8d21eec0-4060-4362-8a0d-ac073c7764ea.png" width="215" height="438">
+  <img src="https://user-images.githubusercontent.com/17883972/214753281-47d5c272-ca76-431e-aa76-653b466420f7.png" width="215" height="438">
+  <img src="https://user-images.githubusercontent.com/17883972/214753284-6bb6f953-f1f6-448b-b086-263baf0a6df1.png" width="215" height="438">
+</p>
